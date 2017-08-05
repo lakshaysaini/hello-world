@@ -16,3 +16,5 @@
 
 // Fix the bug
 // adding new fature added by branch new--feature
+
+// added new code for merging 
