@@ -15,4 +15,8 @@
 // Add another change from the fork
 
 // Fix the bug
+
 // New changes to test stash
+=======
+
+// new changes 
